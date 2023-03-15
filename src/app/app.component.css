@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    margin: 200px 200px 0px 320px;
+}
+.video-card{
+    margin: 30px;
+}
+.video-data{
+    display: inline-flex;
+    margin:0px 30px 10px 0px;
+    font-size: 30px;
+    position: relative;
+    left: 20px;
+}
+.highlight{
+    border: 3px solid orange;
+    background-color: rgb(255, 230, 189);
+    padding: 15px 20px 10px 40px;
+    border-radius: 10px;
+}
+.icon-material{
+    color: orange;
+}
